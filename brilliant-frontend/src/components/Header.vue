@@ -13,8 +13,8 @@ export default {
 
 <style>
 .logo{
-    font-size: 3vw;
-    padding : 0.5vw;
+    font-size: 2.5vw;
+    padding : 1vw 0 0 3vw;
     width : max-content
 }
 </style>
